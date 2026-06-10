@@ -1,7 +1,7 @@
 <img width="100%" height="auto" alt="TROPIXCAL" src="https://github.com/user-attachments/assets/f242a02d-7ee3-4000-a932-4ad155891640" />
 
-### Esse jogo aqui foi feito pra rodar no Portugol lá em 2021, atualizações recentes do portugol webstudio fizeram possiveis ele ser **jogado online**. 
-### Então, essa é a build online de **TROPIXCAL**, um jogo feito em 3 dias pelo Thiago e pela Julia do ensino médio.
+### Esse jogo aqui foi feito pra rodar no Portugol lá em 2021, atualizações recentes do portugol webstudio vão fazer possivel ele ser **jogado online**. (eu vo tentar um fork dps pra fazer)
+### Então, essa é pra futura build online de **TROPIXCAL**, que foi um jogo feito em 3 dias pelo Thiago e pela Julia do ensino médio.
 
 
 Como os sprites precisam estar hospedados, resolvi usar o próprio blob storage do github pra isso, então vejam aqui em baixo todos os sprites que o jogo usa.
